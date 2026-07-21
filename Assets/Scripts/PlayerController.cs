@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 public class PlayerController : MonoBehaviour
 {
-    public float playerJumpForce = 10f;
+    public float playerJumpForce = 8.5f;
     public float playerSpeed = 5f;
     public Sprite[] mySprites;
     private int index = 0;
